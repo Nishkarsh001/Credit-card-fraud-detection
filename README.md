@@ -1,4 +1,3 @@
-Nishkarsh001.Credit-card-fraud-detection
 # Credit-card-fraud-detection
 ## Problem Statement
 The problem that i am going to solve is to understand the features and gather insights to identify the fraud transactions. I am going to perform oversampling using __SMOTE__ to balance the data.
